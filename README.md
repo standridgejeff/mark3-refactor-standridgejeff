@@ -1,0 +1,2 @@
+# KataRefactor
+C# Refactoring Skills
